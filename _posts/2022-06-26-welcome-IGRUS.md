@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/welcome.jpg
 navigation: True
 title: Welcome to IGRUS!
-date: 2022-06-26 23:15:00
+date: 2022-06-25 23:15:00
 tags: [Getting started]
 class: post-template
 subclass: 'post'

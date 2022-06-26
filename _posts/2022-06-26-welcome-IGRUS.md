@@ -8,7 +8,7 @@ date: 2022-06-25 23:15:00
 tags: [Getting started]
 class: post-template
 subclass: 'post'
-author: 윤여준
+author: Yun-YeoJun
 ---
 
 IGRUS의 첫번째 글입니다.

@@ -5,17 +5,24 @@
 ## 글 작성 방법
 ### 1. 저자 등록
 ```_data``` 폴더의 ```authors.yml``` 파일에 작성하시는 분의 정보를 다음과 같이 추가해주시면 됩니다.
-```
-Yun-YeoJun: # github 아이디 (필수)
-  username: Yun-YeoJun # github 아이디 (필수)
-  name: 윤여준 # 본명 (필수)
+```yml
+Yun-YeoJun: # github 아이디
+  username: Yun-YeoJun # github 아이디
+  name: 윤여준 # 본명
   url_full: https://github.com/Yun-YeoJun # 본인의 블로그나 github 주소
   url: github.com/Yun-YeoJun # url_full 에서 https:// 를 제외한 나머지 주소
   bio: INHA UNIV. ICE 22 & IGRUS President # 본인 소개
   picture: False # 프로필 사진 (assets/images 폴더에 사진을 넣고 assets/images/파일이름.확장자명 이런 식으로 작성 / 안 쓸 거면 False)
   cover: False # 프로필 커버 사진 (assets/images 폴더에 사진을 넣고 assets/images/파일이름.확장자명 이런 식으로 작성 / 안 쓸 거면 False)
 ```
-### 2. 
+### 2. 글 작성
+```_post``` 폴더에 ```yyyy-mm-dd-title.md``` 파일 생성 (ex. 2022-06-27-welcome.md)
+
+파일 이름은 영어로 작성해야하며 공백(' ') 대신 하이픈('-') 사용
+
+파일 상단에 [Front Matter](https://jekyllrb.com/docs/front-matter/) 작성
+
+
 ## Copyright & License
 
 Same licence as the one provided by Ghost's team. See Casper's theme [license](GHOST.txt).

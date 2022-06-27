@@ -13,8 +13,8 @@ title: IGRUS
 description: Inha Group of Research for Unix Security
 cover: #assets/images/IGRUS.png
 logo: #assets/images/IGRUS_logo.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+logo_dark: assets/images/IGRUS_logo.png
+favicon: assets/images/IGRUS_logo.png
 CNAME: #add cname for website to be created
 
 # Social info

@@ -29,7 +29,7 @@ current: post
 cover:  assets/images/welcome.jpg # 글의 커버 사진 주소 (안 쓸 거면 False)
 navigation: True
 title: Welcome to IGRUS! # 글 제목
-date: 2022-06-25 23:15:00
+date: 2022-06-25
 tags: [Getting started,fiction] # _data/tags.yml 파일에 존재하는 태그만
 class: post-template
 subclass: 'post'

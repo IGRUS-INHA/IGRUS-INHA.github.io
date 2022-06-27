@@ -14,3 +14,19 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+webgrus:
+  name: webgrus
+  description: 웹 개발 소모임 WEBGRUS
+  cover: False
+igdc:
+  name: igdc
+  description: 게임 개발 소모임 IGDC
+  cover: False
+ixploit:
+  name: ixploit
+  description: 게임 개발 소모임 IXPLOIT
+  cover: False
+mgj:
+  name: mgj
+  description: 매주 1과제
+  cover: False

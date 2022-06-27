@@ -11,7 +11,7 @@ Yun-YeoJun: # github 아이디
   name: 윤여준 # 본명
   url_full: https://github.com/Yun-YeoJun # 본인의 블로그나 github 주소
   url: github.com/Yun-YeoJun # url_full 에서 https:// 를 제외한 나머지 주소
-  bio: INHA UNIV. ICE 22 & IGRUS President # 본인 소개
+  bio: INHA UNIV. ICE 22 # 본인 소개
   picture: False # 프로필 사진 (assets/images 폴더에 사진을 넣고 assets/images/파일이름.확장자명 이런 식으로 작성 / 안 쓸 거면 False)
   cover: False # 프로필 커버 사진 (assets/images 폴더에 사진을 넣고 assets/images/파일이름.확장자명 이런 식으로 작성 / 안 쓸 거면 False)
 ```
@@ -21,6 +21,22 @@ Yun-YeoJun: # github 아이디
 파일 이름은 영어로 작성해야하며 공백(' ') 대신 하이픈('-') 사용
 
 파일 상단에 [Front Matter](https://jekyllrb.com/docs/front-matter/) 작성
+
+```yml
+---
+layout: post
+current: post
+cover:  assets/images/welcome.jpg # 글의 커버 사진 주소 (안 쓸 거면 False)
+navigation: True
+title: Welcome to IGRUS! # 글 제목
+date: 2022-06-25 23:15:00
+tags: [Getting started,fiction] # _data/tags.yml 파일에 존재하는 태그만
+class: post-template
+subclass: 'post'
+author: Yun-YeoJun # 작성자 github 아이디 (_data/authors.yml 파일에 등록한 github 아이디만)
+---
+```
+Front Matter의 위 아래에 있는 ---는 지우면 안 됨
 
 
 ## Copyright & License

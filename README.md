@@ -38,6 +38,10 @@ author: Yun-YeoJun # 작성자 github 아이디 (_data/authors.yml 파일에 등
 ```
 Front Matter의 위 아래에 있는 ---는 지우면 안 됨
 
+글은 markdown 문법으로 작성
+
+실제 블로그에 글이 올라오기까지는 좀 기다려야함 (Actions 탭 참고)
+
 
 ## Copyright & License
 

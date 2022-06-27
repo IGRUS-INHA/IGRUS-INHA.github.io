@@ -5,7 +5,7 @@ cover:  assets/images/welcome.jpg
 navigation: True
 title: Welcome to IGRUS!
 date: 2022-06-25 23:15:00
-tags: [Getting started]
+tags: [Getting started,fiction]
 class: post-template
 subclass: 'post'
 author: Yun-YeoJun

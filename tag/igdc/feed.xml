@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/igdc/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2022-06-28T07:10:40+00:00</updated>
+  <id>/tag/igdc/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">IGRUS | </title>
+  
+
+  
+    <subtitle>Inha Group of Research for Unix Security</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">IGDC 소개</title>
+      <link href="/IGDC" rel="alternate" type="text/html" title="IGDC 소개" />
+      <published>2022-06-27T00:00:00+00:00</published>
+      <updated>2022-06-27T00:00:00+00:00</updated>
+      <id>/IGDC</id>
+      <content type="html" xml:base="/IGDC">&lt;p&gt;IGDC는 IGRUS 소속 게임 개발 소모임입니다.&lt;/p&gt;
+&lt;p&gt;IGDC에서는 &lt;a href=&quot;https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%8B%88%ED%8B%B0_(%EA%B2%8C%EC%9E%84_%EC%97%94%EC%A7%84)&quot;&gt;Unity&lt;/a&gt;를 사용하여 프로젝트를 진행할 예정입니다. 
+  Unity를 모르는 분들을 위해 기초 스터디가 준비되어 있습니다.&lt;/p&gt;
+&lt;p&gt;기초 스터디 이후엔 운영진과 팀을 이뤄 프로젝트 활동을 진행할 예정입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>윤여준</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="igdc" />
+      
+
+      
+        <summary type="html">IGDC는 IGRUS 소속 게임 개발 소모임입니다. IGDC에서는 Unity를 사용하여 프로젝트를 진행할 예정입니다. Unity를 모르는 분들을 위해 기초 스터디가 준비되어 있습니다. 기초 스터디 이후엔 운영진과 팀을 이뤄 프로젝트 활동을 진행할 예정입니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

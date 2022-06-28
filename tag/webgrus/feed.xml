@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/webgrus/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2022-06-28T07:10:40+00:00</updated>
+  <id>/tag/webgrus/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">IGRUS | </title>
+  
+
+  
+    <subtitle>Inha Group of Research for Unix Security</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">WEBGRUS 소개</title>
+      <link href="/webgrus" rel="alternate" type="text/html" title="WEBGRUS 소개" />
+      <published>2022-06-27T00:00:00+00:00</published>
+      <updated>2022-06-27T00:00:00+00:00</updated>
+      <id>/webgrus</id>
+      <content type="html" xml:base="/webgrus">&lt;p&gt;Webgrus는 IGRUS의 웹/앱 제작 소모임입니다.&lt;/p&gt;
+
+&lt;p&gt;웹을 처음 접하시는 분들을 위한 교육주 프로그램이 준비되어 있습니다. 
+  교육주만 잘 따라온다면 프론트엔드부터 백엔드까지 익힐 수 있습니다.&lt;/p&gt;
+
+&lt;p&gt;교육주가 끝나면 팀 매칭을 진행해서 프로젝트를 진행하게 됩니다.
+  팀 프로젝트를 통해 실제 웹/앱을 만들어보는 경험을 해볼 수 있습니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>윤여준</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="webgrus" />
+      
+
+      
+        <summary type="html">Webgrus는 IGRUS의 웹/앱 제작 소모임입니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
